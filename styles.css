@@ -1,0 +1,3 @@
+body { display: flex;  flex-direction: column; justify-content: center; align-items: center; margin: 0; text-align: center; min-height: 100vh;}
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
