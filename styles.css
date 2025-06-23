@@ -10,29 +10,31 @@ body {
     font-family: 'Outfit', sans-serif;
 }
 main {
-    width: 250px;
-    height: 400px;
+    width: 280px;
+    height: 420px;
     padding-top: 10px;
     border-radius: 10px;
     background-color: hsl(0, 0%, 100%);
 }
 img {
-    width: 220px;
-    height: 230px;
+    width: 250px;
+    height: 250px;
     border-radius: 10px;
 }
 .main-skill {
+    padding-inline: 25px;
     font-size: 20px;
     font-weight: 700;
-    color: black;
 }
 p {
-    font-size: 15px;
+    padding-inline: 20px;
+    font-size: 14px;
     font-weight: 400;
     color: gray;
 }
-.attribution { 
-    font-size: 11px; 
+.attribution {
+    margin-top: 50px;
+    font-size: 14px; 
     text-align: center;
 }
 .attribution a { 
